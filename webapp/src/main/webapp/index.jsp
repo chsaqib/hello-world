@@ -18,7 +18,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
     <label for="email"><b>Enter area code</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter area code" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Enter Password</b></label>
